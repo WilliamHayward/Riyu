@@ -47,13 +47,9 @@ module.exports = {
   ],
   testimonials: [
     {
-      quote: 'Incredibly talented and hardworking. A super friendly guy who is a frequent communicator',
-      name: 'Person Name',
-      title: 'CEO at Company'
-    },
-    {
-      quote: 'Wow, thank you for this, you probably have the most intuitive explanation for this problem!',
-      name: 'Person Name'
+      quote: '',
+      name: '',
+      title: ''
     }
   ]
 }
