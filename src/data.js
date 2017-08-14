@@ -1,53 +1,48 @@
 module.exports = {
-  title: 'John Smith',
-  header: "Hi, I'm John Smith",
-  description: "I'm a college junior currently taking up Computer Science in University X. I'm a freelance developer with 4 years of experience, having worked with clients such as X, Y, Z. I enjoy building everything from small business sites to rich interactive web apps.",
-  name: 'John Smith',
-  footerTitle: 'Software Engineer',
-  email: 'johnsmith@mail.com',
+  title: 'William Hayward',
+  header: "Hi, I'm William Hayward",
+  description: "I'm study a Bachelor of Information Technology majoring in Software Design at UQ.",
+  name: 'William Hayward',
+  footerTitle: 'Software Developer',
+  email: 'HaywardWilliam1996@gmail.com',
   cta: {
     label: 'Get my resume',
     url: 'resume.pdf',
   },
   socials: [
-    { icon: 'twitter', url: '//' },
-    { icon: 'github-circled', url: '//' },
+    { icon: 'github-circled', url: 'https://github.com/WilliamHayward/' },
     { icon: 'mail-alt' }, // mail alt automatically links to mailto:email
-    { icon: 'dribbble', url: '//' },
-    { icon: 'skype', url: '//' },
-    { icon: 'linkedin-squared', url: '//' },
+    { icon: 'linkedin-squared', url: 'https://www.linkedin.com/in/williamhayward1996/' },
   ],
   projects: [
     {
-      name: 'Combustion',
-      description: 'Combustion is a sleek, modern web client for the transmission bittorrent client.',
-      tags: ['React', 'Javascript', 'Webpack', 'Mobx', 'CSSModules'],
-      alt: 'Combustion Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
-      img: 'combustion.png',
-      url: '//'
+      name: 'Lipwig',
+      description: 'Lipwig is a message server built in Node.js using the socket.io framework. It is fully documented and has an official API for browser-based JavaScript and for Java.',
+      tags: ['Node', 'Javascript', 'socketio', 'Websockets'],
+      alt: 'Lipwig logo', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
+      img: 'lipwig.png',
+      url: 'https://williamhayward.github.io/Lipwig/'
     },
     {
-      name: 'Merc-01',
-      description: 'Merc-01 is a fast paced twin-stick shooter built on top of pyglet.',
-      tags: ['Python', 'WebGL', 'Pyglet'],
-      img: 'merc-01.png',
-      url: '//'
+      name: 'Turrets',
+      description: 'Turrets is a platform tower defense game built in LibGDX.',
+      tags: ['Java', 'LibGDX'],
+      img: 'turrets.png',
+      url: 'https://github.com/WilliamHayward/Turrets'
+    },
+    {
+      name: 'Coaster',
+      description: 'Coaster was a group project for the DECO2800 course at UQ. There were roughly 60 people working on the project, divided into teams. My team was primarily responsible for procedural terrain generation. I was also in charge of open sourcing the project. <br/><br/>Coaster received the Paul Gampe Prize for "Best Open Source Project" in the 2016 UQ Innovation Showcase. Paul Gampe prize for best open source project.',
+      tags: ['Java', 'Procedural'],
+      img: 'coaster.png',
+      url: 'https://github.com/UQdeco2800/coaster'
     }
   ],
   experiences: [
     {
-      title: 'Senior Software Engineer at Company A',
-      timeline: 'Jan 2016 - Present',
-      description: 'Implemented Gamification for system',
-    },
-    {
-      title: 'Fullstack Software Engineer at Company B',
-      timeline: 'Feb 2015 - Dec 2015',
-      responsibilities: [
-        'Worked with a global team of developers and artists for the implementation of new features in Existing Codebase of a Free-to-play MMO',
-        'Increased rate of tickets/tasks done by the team up to 300% within first few weeks!',
-        'Added Abstractions on Server API to Minimize Duplicate Code'
-      ]
+      title: 'Head Teacher at Code Camp',
+      timeline: 'April 2017 - Present',
+      description: 'Teaching the next generation of coders and creators',
     }
   ],
   testimonials: [
