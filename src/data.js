@@ -7,7 +7,7 @@ module.exports = {
   email: 'HaywardWilliam1996@gmail.com',
   cta: {
     label: 'Get my resume',
-    url: 'resume.pdf',
+    url: 'williamhaywardresume.pdf',
   },
   socials: [
     { icon: 'github-circled', url: 'https://github.com/WilliamHayward/' },
