@@ -1,7 +1,7 @@
 module.exports = {
   title: 'William Hayward',
   header: "Hi, I'm William Hayward",
-  description: "I'm study a Bachelor of Information Technology majoring in Software Design at UQ.",
+  description: "I'm studying a Bachelor of Information Technology majoring in Software Design at UQ.",
   name: 'William Hayward',
   footerTitle: 'Software Developer',
   email: 'HaywardWilliam1996@gmail.com',
@@ -43,7 +43,13 @@ module.exports = {
       title: 'Head Teacher at Code Camp',
       timeline: 'April 2017 - Present',
       description: 'Teaching the next generation of coders and creators',
-    }
+    },
+    {
+      title: 'Studying Software Design at UQ',
+      timeline: 'June 2014 - Present',
+      description: '<ul><li>Contributed to Paul Gampe Prize for "Best Open Source Project" winning project</li><li>Heavily involved in several club executives</li></ul>',
+    },
+    
   ],
   testimonials: [
     {
