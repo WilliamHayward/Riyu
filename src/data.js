@@ -1,7 +1,7 @@
 module.exports = {
   title: 'William Hayward',
   header: "Hi, I'm William Hayward",
-  description: "I'm studying a Bachelor of Information Technology majoring in Software Design at UQ.",
+  description: "I'm a software developer studying at UQ. I make web, mobile, and desktop applications.",
   name: 'William Hayward',
   footerTitle: 'Software Developer',
   email: 'HaywardWilliam1996@gmail.com',
