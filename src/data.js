@@ -45,6 +45,16 @@ module.exports = {
       description: 'Teaching the next generation of coders and creators',
     },
     {
+      title: 'Contractor at Blue Beard Entertainment',
+      timeline: '2015 - Present',
+      description: 'App development and in-house utilities',
+    },
+    {
+      title: 'Newspaper Editor at UQ Union',
+      timeline: 'December 2017 - Present',
+      description: 'Wordpress website maintainance and article editing',
+    },
+    {
       title: 'Studying Software Design at UQ',
       timeline: 'June 2014 - Present',
       description: '<ul><li>Contributed to Paul Gampe Prize for "Best Open Source Project" winning project</li><li>Heavily involved in several club executives</li></ul>',
